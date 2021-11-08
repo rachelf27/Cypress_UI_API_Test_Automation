@@ -1,0 +1,14 @@
+{
+  "name": "cypress_ui_api_test_automation",
+  "version": "1.0.0",
+  "description": "Test Framework for UI and API using Cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rachel Murphy",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^8.7.0"
+  }
+}

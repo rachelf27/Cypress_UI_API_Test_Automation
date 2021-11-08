@@ -1,0 +1,13 @@
+{
+    "email": "test_rm_27@gmail.com",
+    "first_name": "rachel",
+    "last_name": "mur",
+    "password": "secret_pswd1",
+    "address": "789 Ne 34th", 
+    "city": "portland",
+    "state": "Alabama",
+    "zip": "98681",
+    "country": "United Sates",
+    "mobile": "503-121-456",
+    "address_alias": "test address"
+}
